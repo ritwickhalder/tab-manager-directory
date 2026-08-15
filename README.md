@@ -1,7 +1,5 @@
 # Browser Tab & Session Manager Directory
-A comprehensive directory of browser tab managers, session managers, workspace managers, tab organizers, tab savers, and related tools for Chrome, Firefox, Edge, and other browsers. The goal of this project is to maintain a useful, neutral and continuously updated directory of tools that help users save, organize, search, restore, group, suspend, or otherwise manage browser tabs and sessions.
-
-If you know of a relevant extension or tool that is missing, please open a Pull Request or Issue. Please do not modify existing entries unless information is incorrect, outdated, or objectively needs to be updated.
+This repository is a community updated comprehensive directory of browser tab managers, session managers, workspace managers, tab organizers, tab savers, and related tab management productivity tool for Chrome, Firefox, Edge, and other browsers. The goal of this project is to maintain a useful, neutral and continuously updated directory of tools that help users save, organize, search, restore, group, suspend, or otherwise manage browser tabs and sessions. If you know of a relevant extension or tool that is missing, please open a Pull Request or Issue. Please DO NOT modify existing entries unless information is incorrect, outdated, or objectively needs to be updated.
 
 ## Google Chrome Extensions
 
