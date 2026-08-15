@@ -5,8 +5,6 @@ If you know of a relevant extension or tool that is missing, please open a Pull 
 
 ## Google Chrome Extensions
 
-## Google Chrome Extensions
-
 | No | Extension | Description |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**Super Session Manager - Tab Manager & Bookmark Manager**](https://chromewebstore.google.com/detail/super-session-manager-tab/apkaoclnnejpmhhbgmehcaekkfnomedd)  | Session Manager helps you save, organize and restore tab sessions, tab groups & bookmarks. Privacy-focused Tab Manager.  |
@@ -90,7 +88,8 @@ If you know of a relevant extension or tool that is missing, please open a Pull 
 
 | No | Extension | Description |
 | ------ | ------------------------------------------------------ |---------------------|
-| 1 | [**Tab Session Manager**](https://microsoftedge.microsoft.com/addons/detail/tab-session-manager/jkjjclfiflhpjangefhgfjhgfbhajadk) | Saves and restores windows and tabs, manages named and tagged sessions, autosaves on close or at intervals, imports and exports sessions, and supports cloud sync. |
+| 1 | [**Super Session Manager**](https://microsoftedge.microsoft.com/addons/detail/super-session-manager-t/meimhfgbddjmpdhjdmcmgopajccllpem) | Session Manager helps you save, organize and restore tab sessions, tab groups & bookmarks. Privacy-focused Tab Manager. |
+| 2 | [**Tab Session Manager**](https://microsoftedge.microsoft.com/addons/detail/tab-session-manager/jkjjclfiflhpjangefhgfjhgfbhajadk) | Saves and restores windows and tabs, manages named and tagged sessions, autosaves on close or at intervals, imports and exports sessions, and supports cloud sync. |
 | 2 | [**Tab Session Manager Extension — hocgin**](https://microsoftedge.microsoft.com/addons/detail/tab-session-manager/dhgjhfakflkaljfnaimgjlneidmcfhbf) | Alternative Edge listing for saving and restoring tab sessions; verify publisher and privacy details before installation because it is separate from Sienori’s extension. |
 | 3 | [**Session Manager Pro - Tabs, Sessions, Tab Groups**](https://microsoftedge.microsoft.com/addons/detail/session-manager-pro-tab/kdojlgpnjblieamehcnmdmmhhfomldjm) | One-click session saving and restoration with recent-tab history, saved tabs, import/export, local storage, side-panel mode, configurable autosave, search, tags, merging, duplicate cleanup, tab suspension and tab-group support. |
 | 4 | [**TabXpert - session and tab manager**](https://microsoftedge.microsoft.com/addons/detail/tabxpert-session-and-ta/gbhfliieaebpiaocbfkhnpmmacakjeko) | Auto-saved browser sessions with tab groups and cloud synchronization. |
