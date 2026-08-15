@@ -55,7 +55,6 @@ If you know of a relevant extension or tool that is missing, please open a Pull 
 | 9 | [**Tab Center Reborn**](https://addons.mozilla.org/en-US/firefox/addon/tabcenter-reborn/) | Provides a vertical tab interface for managing browser tabs in a sidebar. |
 | 10 | [**Tree Tabs**](https://addons.mozilla.org/en-US/firefox/addon/tree-tabs/) | Tree-based tab manager with folders, groups, search and session import/export. |
 | 11 | [**Auto Tab Discard**](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/) | Automatically discards inactive tabs to reduce memory usage and improve browser performance. |
-| 12 | [**Undo Close Tab**](https://addons.mozilla.org/en-US/firefox/addon/undo-close-tab/) | Restores recently closed tabs and provides convenient access to recently closed tabs. |
 | 13 | [**Vertical Tree Tabs**](https://addons.mozilla.org/en-US/firefox/addon/vertical-tree-tabs/) | Organizes Firefox tabs vertically in a tree structure. |
 | 14 | [**Vertigo Tabs**](https://addons.mozilla.org/en-US/firefox/addon/vertigo-tabs/) | Provides a lightweight vertical tab sidebar for Firefox. |
 | 15 | [**Panorama Tab Groups**](https://addons.mozilla.org/en-US/firefox/addon/panorama-tab-groups/) | Provides visual organization and management of Firefox tab groups. |
@@ -68,19 +67,14 @@ If you know of a relevant extension or tool that is missing, please open a Pull 
 | 22 | [**Simple TabSave**](https://addons.mozilla.org/en-US/firefox/addon/simple-tabsave/) | Saves and restores current-window tabs with support for pinned and container tabs and JSON export. |
 | 23 | [**Tab Save & Restore**](https://addons.mozilla.org/en-US/firefox/addon/tab-save-restore/) | Saves links from open tabs and allows them to be restored later. |
 | 24 | [**Tab Deque**](https://addons.mozilla.org/en-US/firefox/addon/tab-deque/) | Helps manage tab focus order and navigate tabs according to browsing history. |
-| 25 | [**AllTab**](https://addons.mozilla.org/en-US/firefox/addon/alltab/) | Tab manager with session saving, tab restoration, organization, suspension and reload features. |
-| 26 | [**Tab Saver**](https://addons.mozilla.org/en-US/firefox/addon/tab-saver/) | Saves browser tabs so they can be restored later. |
-| 27 | [**Tab Saver with Session Management**](https://addons.mozilla.org/en-US/firefox/addon/tab-saver-with-session-management/) | Saves and restores groups of browser tabs as sessions. |
-| 28 | [**TabXpert**](https://addons.mozilla.org/en-US/firefox/addon/tabxpert/) | Tab manager for searching, stashing, sorting and grouping tabs. |
-| 29 | [**Tab Zen**](https://addons.mozilla.org/en-US/firefox/addon/tabzen/) | Saves, restores and organizes tabs using folders and searchable collections. |
-| 30 | [**Workspace**](https://addons.mozilla.org/en-US/firefox/addon/workspace/) | Organizes tabs into named workspaces that can be saved, restored and switched between. |
-| 31 | [**Session Panel**](https://addons.mozilla.org/en-US/firefox/addon/session-panel/) | Session, window and tab manager for creating, editing, saving and restoring browser sessions. |
-| 32 | [**Session Tab Manager**](https://addons.mozilla.org/en-US/firefox/addon/session-tab-manager/) | Saves and restores browser tab sessions. |
-| 33 | [**Easy Session Manager**](https://addons.mozilla.org/en-US/firefox/addon/easy-session-manager/) | Saves and restores Firefox sessions containing tabs and browser windows. |
-| 34 | [**SessionBox Free 4 Everyone**](https://addons.mozilla.org/en-US/firefox/addon/sessionbox-free-4-everyone/) | Manages isolated browser sessions with persistent cookies and separate browsing contexts. |
-| 35 | [**Tab Mix Plus**](https://addons.mozilla.org/en-US/firefox/addon/tab-mix-plus/) | Provides advanced tab management, session management and browser tab customization features. |
-| 36 | [**Tab Wrangler**](https://addons.mozilla.org/en-US/firefox/addon/tab-wrangler/) | Automatically closes inactive tabs and provides access to closed tabs for recovery. |
-| 37 | [**Simple Tab Groups**](https://addons.mozilla.org/en-US/firefox/addon/simple-tab-groups/) | Creates, modifies and quickly switches between groups of browser tabs. |
+| 25 | [**TabXpert**](https://addons.mozilla.org/en-US/firefox/addon/tabxpert/) | Tab manager for searching, stashing, sorting and grouping tabs. |
+| 26 | [**Tab Zen**](https://addons.mozilla.org/en-US/firefox/addon/tabzen/) | Saves, restores and organizes tabs using folders and searchable collections. |
+| 27 | [**Workspace**](https://addons.mozilla.org/en-US/firefox/addon/workspace/) | Organizes tabs into named workspaces that can be saved, restored and switched between. |
+| 28 | [**Session Panel**](https://addons.mozilla.org/en-US/firefox/addon/session-panel/) | Session, window and tab manager for creating, editing, saving and restoring browser sessions. |
+| 29 | [**Session Tab Manager**](https://addons.mozilla.org/en-US/firefox/addon/session-tab-manager/) | Saves and restores browser tab sessions. |
+| 30 | [**Easy Session Manager**](https://addons.mozilla.org/en-US/firefox/addon/easy-session-manager/) | Saves and restores Firefox sessions containing tabs and browser windows. |
+| 31 | [**SessionBox Free 4 Everyone**](https://addons.mozilla.org/en-US/firefox/addon/sessionbox-free-4-everyone/) | Manages isolated browser sessions with persistent cookies and separate browsing contexts. |
+| 32 | [**Simple Tab Groups**](https://addons.mozilla.org/en-US/firefox/addon/simple-tab-groups/) | Creates, modifies and quickly switches between groups of browser tabs. |
 
 
 ## Microsoft Edge Extensions
@@ -100,12 +94,11 @@ If you know of a relevant extension or tool that is missing, please open a Pull 
 | 10 | [**Session Manager**](https://microsoftedge.microsoft.com/addons/detail/session-manager/gdokecefipnpmlbcccmoehjbgcjkmkjh) | Saves and restores browsing sessions in Microsoft Edge. |
 | 11 | [**Tab Session Manager — zhangxl**](https://microsoftedge.microsoft.com/addons/detail/tab-session-manager/cjmhmkljhoebmbijnclbdofildfgihjk) | Saves all open tabs in one action and restores them later, with a paid tier for expanded session storage according to the listing. |
 | 12 | [**Tab Manager — kaimi**](https://microsoftedge.microsoft.com/addons/detail/tab-manager/lcjemmknjgakfbnihmbhobecejggodoh) | Groups tabs by domain, saves and restores sessions, searches tabs and closes duplicates. |
-| 13 | [**TabLX — Research Session Manager**](https://microsoftedge.microsoft.com/addons/detail/tablx-%E2%80%94-research-session-/phkokfpoaeebgojgojmjenhagidikgig) | Saves named tab-group sessions, restores them with one click and exports research sessions to Notion, Obsidian or Markdown. |
+| 13 | [**Tab Management: Tab Manager**](https://microsoftedge.microsoft.com/addons/detail/tab-management-tab-manag/dfkgollajkejcpdenfokmcbdmjlfdpbl) | Productivity-oriented tab management extension for organizing open browser tabs. |
 | 14 | [**Tab Manager for Browser**](https://microsoftedge.microsoft.com/addons/detail/tab-manager-for-browser%E2%84%A2/hpgmiocclcbhepdjlpecmjppgclnnkbn) | Advanced tab manager for Microsoft Edge and compatible Chromium browsers. |
 | 15 | [**Tab Manager Pro**](https://microsoftedge.microsoft.com/addons/detail/tab-manager-pro/blhboipampenkopabkbmjglfbdhmbabi) | Provides a focused interface for bringing large numbers of open tabs under control. |
 | 16 | [**Tab Manager v2**](https://microsoftedge.microsoft.com/addons/detail/tab-manager-v2/idoifhgklnblomgoohijchjignpiddpb) | Keyboard-first tab manager for searching, grouping, moving and cleaning up tabs across browser windows. |
 | 17 | [**Tab Manager — Leonardo Compson**](https://microsoftedge.microsoft.com/addons/detail/tab-manager/ghidlomcmceiaenjbepdonchkjdapnkp) | Organizes open tabs across multiple windows from a toolbar popup. |
-| 18 | [**Tab Management: Tab Manager**](https://microsoftedge.microsoft.com/addons/detail/tab-management-tab-manag/dfkgollajkejcpdenfokmcbdmjlfdpbl) | Productivity-oriented tab management extension for organizing open browser tabs. |
 
 ## Opera Extensions
 
