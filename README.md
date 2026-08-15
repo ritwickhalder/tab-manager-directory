@@ -77,11 +77,10 @@ If you know of a relevant extension or tool that is missing, please open a Pull 
 | 31 | [**Session Panel**](https://addons.mozilla.org/en-US/firefox/addon/session-panel/) | Session, window and tab manager for creating, editing, saving and restoring browser sessions. |
 | 32 | [**Session Tab Manager**](https://addons.mozilla.org/en-US/firefox/addon/session-tab-manager/) | Saves and restores browser tab sessions. |
 | 33 | [**Easy Session Manager**](https://addons.mozilla.org/en-US/firefox/addon/easy-session-manager/) | Saves and restores Firefox sessions containing tabs and browser windows. |
-| 34 | [**MySessions**](https://addons.mozilla.org/en-US/firefox/addon/mysessions/) | Session manager for quickly saving browser state and restoring sessions later. |
-| 35 | [**SessionBox Free 4 Everyone**](https://addons.mozilla.org/en-US/firefox/addon/sessionbox-free-4-everyone/) | Manages isolated browser sessions with persistent cookies and separate browsing contexts. |
-| 36 | [**Tab Mix Plus**](https://addons.mozilla.org/en-US/firefox/addon/tab-mix-plus/) | Provides advanced tab management, session management and browser tab customization features. |
-| 37 | [**Tab Wrangler**](https://addons.mozilla.org/en-US/firefox/addon/tab-wrangler/) | Automatically closes inactive tabs and provides access to closed tabs for recovery. |
-| 38 | [**Simple Tab Groups**](https://addons.mozilla.org/en-US/firefox/addon/simple-tab-groups/) | Creates, modifies and quickly switches between groups of browser tabs. |
+| 34 | [**SessionBox Free 4 Everyone**](https://addons.mozilla.org/en-US/firefox/addon/sessionbox-free-4-everyone/) | Manages isolated browser sessions with persistent cookies and separate browsing contexts. |
+| 35 | [**Tab Mix Plus**](https://addons.mozilla.org/en-US/firefox/addon/tab-mix-plus/) | Provides advanced tab management, session management and browser tab customization features. |
+| 36 | [**Tab Wrangler**](https://addons.mozilla.org/en-US/firefox/addon/tab-wrangler/) | Automatically closes inactive tabs and provides access to closed tabs for recovery. |
+| 37 | [**Simple Tab Groups**](https://addons.mozilla.org/en-US/firefox/addon/simple-tab-groups/) | Creates, modifies and quickly switches between groups of browser tabs. |
 
 
 ## Microsoft Edge Extensions
