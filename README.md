@@ -35,7 +35,6 @@ If you know of a relevant extension or tool that is missing, please open a Pull 
 | 24 | [**The Great Suspender**](https://chromewebstore.google.com/detail/the-great-suspender-reloa/hlofigcdgjlnalbkeeinfcjceabpamci) | Suspends inactive tabs to reduce memory and CPU usage. |
 | 25 | [**Tab Groups to Bookmarks**](https://chromewebstore.google.com/detail/tab-groups-to-bookmarks/mllgjknmdjhhbljhlcopkohfkadaakcn) | Saves Chrome tab groups as bookmark folders for persistent organization. |
 | 26 | [**Tab Manager AI for Chrome**](https://chromewebstore.google.com/detail/tab-manager-ai-for-chrome/kjgadldkkfhbhpcbckghhocekgcgklbh) | Tab manager with search, grouping, restoration and AI-assisted tab organization. |
-
 | 27 | [**Tab Organizer: Productivity Tool**](https://chromewebstore.google.com/detail/tab-organizer-productivit/hjdhimdmbhgadalmpkkfnpjeppnkfabd?hl=en) | Groups tabs by domain, subdomain or custom rules; provides vertical tabs, search, sorting, duplicate cleanup, colored groups, keyboard shortcuts and window merging. |
 | 28 | [**Save Tabs - Browser Session Manager**](https://chromewebstore.google.com/detail/save-tabs-browser-session/bmpgbfhajjdffipnaonemjdeifamndod?hl=en) | Saves and restores tabs and sessions with tab-group properties, pinned-state preservation, sync storage, optional password protection, encryption, session editing and multi-window support. |
 | 29 | [**Tab Organizer - Workspaces**](https://chromewebstore.google.com/detail/tab-organizer-workspaces/kadhpbmnaecekipppdhoopnejekgkgci?hl=en) | Creates named workspaces for projects, saves tabs into each workspace, restores them in a new window and supports quick workspace switching and Edge compatibility. |
@@ -45,6 +44,8 @@ If you know of a relevant extension or tool that is missing, please open a Pull 
 
 ## Mozilla Firefox Extensions
 
+| No | Extension | Description |
+| ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**OneTab**](https://addons.mozilla.org/en-US/firefox/addon/onetab/) | Converts open tabs into a list that can be restored later, helping reduce tab clutter and memory usage. |
 | 2 | [**Super Session Manager**](https://addons.mozilla.org/en-US/firefox/addon/super-session-manager/) | Save, organize, restore and archive tab sessions, tab groups and bookmarks with advanced tab-management tools. |
 | 3 | [**Tab Session Manager**](https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager/) | Saves and restores the state of browser windows and tabs with automatic saving and cloud synchronization. |
@@ -114,7 +115,7 @@ If you know of a relevant extension or tool that is missing, please open a Pull 
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**Easy Tab Manager**](https://addons.opera.com/en/extensions/details/easy-tab-manager/) | Opera-only tab and window manager for users with many open tabs and windows. The official listing reports version 1.15 and a last update in 2015, so treat it as a legacy add-on and review permissions before use. |
 
-## Safari Extensions and Apps
+## Safari Extensions
 
 | No | Extension | Description |
 | ------ | ------------------------------------------------------ |---------------------|
@@ -124,13 +125,13 @@ If you know of a relevant extension or tool that is missing, please open a Pull 
 | 4 | [**Toast for Safari — Bookmark and Tab Manager**](https://apps.apple.com/us/app/toast-for-safari/id1465707487) | Safari bookmark and tab management app listed in the Mac App Store. |
 | 5 | [**OneTab for Safari**](https://apps.apple.com/gb/app/onetab/id1540160809) | Safari version of OneTab for converting open tabs into recoverable lists; the OneTab project also provides Chrome, Firefox and Edge versions. |
 
-## Vivaldi Browser Built-in Tab Tools
+## Vivaldi Browser Extensions
 
 | No | Extension | Description |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**Vivaldi Tab Management**](https://vivaldi.com/features/tab-management/) | Native Vivaldi tab tools including two-level Tab Stacks, named groups, split-screen views, hibernation, a tree-style Window Panel, accordion stacks, Quick Commands tab search and pinned tabs. |
 
-## Brave Browser Built-in Tab Tools
+## Brave Browser Extensions
 
 | No | Extension | Description |
 | ------ | ------------------------------------------------------ |---------------------|
