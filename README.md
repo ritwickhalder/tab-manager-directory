@@ -39,6 +39,7 @@ This repository is a community updated comprehensive directory of browser tab ma
 | 30 | [**Vertical Tabs**](https://chromewebstore.google.com/detail/vertical-tabs/efobhjmgoddhfdhaflheioeagkcknoji) | Provides vertical tab management in a side panel with support for tab groups and multiple browser windows. |
 | 31 | [**Tab Group Manager**](https://chromewebstore.google.com/detail/tab-group-manager/hhigfakblmebndknkifipceedofihfbb) | Extends native Chrome tab groups with storage, synchronization and the ability to resume saved groups later. |
 | 32 | [**Pinako - AI Tab & Session Manager**](https://chromewebstore.google.com/detail/pinako-ai-tab-session-man/clakbccnkfpmpfooiiffomhknnfcodgd) | Nested-tree tab manager with drag-an-drop between tabs, bookmarks, mobile-device tabs, and curated libraries. Full two-way Tab-Group control and free auto-backup. Sharing, sync, collaborative workspaces, AI search-by-meaning, and read/write with AI chat panel or MCP. |
+| 33 | [**TabPlex**](https://chromewebstore.google.com/detail/tabplex/cgenkcelnlbjbnpmembeekfjcldfagbh) | Local-first browser workspace manager that saves the current task before switching and restores tabs, native tab groups, notes, and linked resources, with timeline, trash, and validated local backup recovery. |
 
 
 ## Mozilla Firefox Extensions
