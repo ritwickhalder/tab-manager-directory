@@ -39,6 +39,7 @@ This repository is a community updated comprehensive directory of browser tab ma
 | 30 | [**Vertical Tabs**](https://chromewebstore.google.com/detail/vertical-tabs/efobhjmgoddhfdhaflheioeagkcknoji) | Provides vertical tab management in a side panel with support for tab groups and multiple browser windows. |
 | 31 | [**Tab Group Manager**](https://chromewebstore.google.com/detail/tab-group-manager/hhigfakblmebndknkifipceedofihfbb) | Extends native Chrome tab groups with storage, synchronization and the ability to resume saved groups later. |
 | 32 | [**Pinako - AI Tab & Session Manager**](https://chromewebstore.google.com/detail/pinako-ai-tab-session-man/clakbccnkfpmpfooiiffomhknnfcodgd) | Nested-tree tab manager with drag-an-drop between tabs, bookmarks, mobile-device tabs, and curated libraries. Full two-way Tab-Group control and free auto-backup. Sharing, sync, collaborative workspaces, AI search-by-meaning, and read/write with AI chat panel or MCP. |
+| 33 | [**Leap — Vertical Tabs, Tab Manager & Spaces**](https://chromewebstore.google.com/detail/leap-%E2%80%94-sidebar-tabs-space/idcampjcfnjdhmpmakkggchhojeknfdb?utm_source=github&utm_medium=awesome-list&utm_campaign=tab-manager-directory) | Arc-style Spaces in the Chrome side panel: saved tabs stay after you close them, with nested folders and pinned daily sites. Free, no sign-up. |
 
 
 ## Mozilla Firefox Extensions
