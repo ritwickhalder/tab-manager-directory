@@ -39,6 +39,7 @@ This repository is a community updated comprehensive directory of browser tab ma
 | 30 | [**Vertical Tabs**](https://chromewebstore.google.com/detail/vertical-tabs/efobhjmgoddhfdhaflheioeagkcknoji) | Provides vertical tab management in a side panel with support for tab groups and multiple browser windows. |
 | 31 | [**Tab Group Manager**](https://chromewebstore.google.com/detail/tab-group-manager/hhigfakblmebndknkifipceedofihfbb) | Extends native Chrome tab groups with storage, synchronization and the ability to resume saved groups later. |
 | 32 | [**Pinako - AI Tab & Session Manager**](https://chromewebstore.google.com/detail/pinako-ai-tab-session-man/clakbccnkfpmpfooiiffomhknnfcodgd) | Nested-tree tab manager with drag-an-drop between tabs, bookmarks, mobile-device tabs, and curated libraries. Full two-way Tab-Group control and free auto-backup. Sharing, sync, collaborative workspaces, AI search-by-meaning, and read/write with AI chat panel or MCP. |
+| 33 | [**Tabner**](https://chromewebstore.google.com/detail/pclkcnonbckoajfpncncdghbhgfccmdi) | New-tab tab manager with visual boards and coloured groups. Saves all tabs of a window in one click, saves windows as sessions (restoring Chrome tab groups), adds tags and notes to saved tabs, and imports Toby JSON and bookmarks HTML. Works locally without an account; optional sync and board sharing. |
 
 
 ## Mozilla Firefox Extensions
@@ -76,6 +77,7 @@ This repository is a community updated comprehensive directory of browser tab ma
 | 30 | [**Easy Session Manager**](https://addons.mozilla.org/en-US/firefox/addon/easy-session-manager/) | Saves and restores Firefox sessions containing tabs and browser windows. |
 | 31 | [**SessionBox Free 4 Everyone**](https://addons.mozilla.org/en-US/firefox/addon/sessionbox-free-4-everyone/) | Manages isolated browser sessions with persistent cookies and separate browsing contexts. |
 | 32 | [**Simple Tab Groups**](https://addons.mozilla.org/en-US/firefox/addon/simple-tab-groups/) | Creates, modifies and quickly switches between groups of browser tabs. |
+| 33 | [**Tabner**](https://addons.mozilla.org/firefox/addon/tabner-your-smart-tab-manager/) | New-tab tab manager with visual boards, coloured groups, saved sessions, Spaces and Ctrl+K search. Imports Toby JSON and bookmarks HTML. Works locally without an account; optional sync. |
 
 
 ## Microsoft Edge Extensions
